@@ -12,15 +12,15 @@ Simular operações de um sistema de arquivos com:
 
 ► COMANDOS IMPLEMENTADOS
 ---------------------------------
-listar                Lista conteúdo do diretório raiz
-listar_diretorio <dir> Lista conteúdo de subdiretório
-criar_diretorio <nome> Cria novo diretório
-criar_arquivo <nome>  Cria arquivo no diretório atual
-criar_arquivo_em <dir> <arquivo> Cria arquivo em subdiretório
-renomear_arquivo <antigo> <novo> Renomeia arquivo
-copiar_arquivo <origem> <destino> Copia arquivo
-mostrar_journal       Exibe log de operações
-ajuda                 Mostra esta lista
+- listar                Lista conteúdo do diretório raiz
+- listar_diretorio <dir> Lista conteúdo de subdiretório
+- criar_diretorio <nome> Cria novo diretório
+- criar_arquivo <nome>  Cria arquivo no diretório atual
+- criar_arquivo_em <dir> <arquivo> Cria arquivo em subdiretório
+- renomear_arquivo <antigo> <novo> Renomeia arquivo
+- copiar_arquivo <origem> <destino> Copia arquivo
+- mostrar_journal       Exibe log de operações
+- ajuda                 Mostra esta lista
 
 ► COMO EXECUTAR
 ---------------------------------
